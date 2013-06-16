@@ -13,6 +13,7 @@ gem 'sqlite3'
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
   gem 'ember-rails', git: 'git://github.com/emberjs/ember-rails.git'
+  gem 'handlebars-source', '1.0.0.rc3'
   # gem 'coffee-rails', '~> 3.2.1'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
